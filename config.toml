@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 baseURL = "https://myblog-xiyue.vercel.app/"
 =======
-baseURL = "https://hugo-xiyue.vercel.app/"
+baseURL = "https://myblog-xiyue.vercel.app/"
 >>>>>>> 6e31d5a846bab99173646e04cd040a0631c9bc43
 languageCode = "en-us"
 title = "Hugo-HT"
