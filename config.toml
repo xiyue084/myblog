@@ -38,7 +38,11 @@ posts = "/posts/:year/:month/:day/:slug/"
 [[menu.cn]]
     name = "English"
     url = "/"
-    weight = 3
+    weight = 
+[[menu.main]]
+    name = "兴趣"
+    url = "/cn/hobby/"
+    weight = 4
 
 [params]
     description = "Peronal website of Xiyue Wang"
