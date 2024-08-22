@@ -62,7 +62,7 @@ posts = "/posts/:year/:month/:day/:slug/"
 <<<<<<< HEAD
     GithubEdit = "https://github.com/xiyue084/myblog/edit/main/content/"
 =======
-    GithubEdit = "https://github.com/USERNAME/REPONAME/edit/master/content/"
+    GithubEdit = "https://github.com/xiyue084/myblog/edit/master/content/"
 >>>>>>> 6e31d5a846bab99173646e04cd040a0631c9bc43
     copyright = "&copy;"
     copyrightYear = "2020-2021"
@@ -72,7 +72,7 @@ posts = "/posts/:year/:month/:day/:slug/"
 <<<<<<< HEAD
     ContentSource = "https://raw.githubusercontent.com/xiyue084/myblog/main/content/" 
 =======
-    ContentSource = "https://raw.githubusercontent.com/USERNAME/REPONAME/master/content/" 
+    ContentSource = "https://raw.githubusercontent.com/xiyue084/myblog/master/content/" 
 >>>>>>> 6e31d5a846bab99173646e04cd040a0631c9bc43
 
 [params.logo]
