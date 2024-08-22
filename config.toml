@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseURL = "https://myblog-xiyue.vercel.app/"
+=======
+baseURL = "https://hugo-ht.vercel.app/"
+>>>>>>> 6e31d5a846bab99173646e04cd040a0631c9bc43
 languageCode = "en-us"
 title = "Hugo-HT"
 theme = "hugo-ht"
@@ -55,13 +59,21 @@ posts = "/posts/:year/:month/:day/:slug/"
     MathJaxVersion = "2.7.5"
     favicon = "media/hugo-logo.png"
     # Edit by yourself:
+<<<<<<< HEAD
     GithubEdit = "https://github.com/xiyue084/myblog/edit/main/content/"
+=======
+    GithubEdit = "https://github.com/USERNAME/REPONAME/edit/master/content/"
+>>>>>>> 6e31d5a846bab99173646e04cd040a0631c9bc43
     copyright = "&copy;"
     copyrightYear = "2020-2021"
     # Edit by yourself:
     GithubRepo = "https://github.com/xiyue084/myblog"
     # Edit by yourself:
+<<<<<<< HEAD
     ContentSource = "https://raw.githubusercontent.com/xiyue084/myblog/main/content/" 
+=======
+    ContentSource = "https://raw.githubusercontent.com/USERNAME/REPONAME/master/content/" 
+>>>>>>> 6e31d5a846bab99173646e04cd040a0631c9bc43
 
 [params.logo]
   # Change the logo picture as your prefer:
