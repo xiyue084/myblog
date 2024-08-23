@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{{<figure src="https://animalcorner.org/wp-content/uploads/2020/07/Japanese-Dog-Breeds-Akita.jpg" title="This is me" width="450">}}
+{{<figure src="/Users/xiaotiancaidiannao/Desktop/ZEST/WechatIMG986.jpg" title="Me in Hefei, China, in 2024 Spring" width="450">}}
 
 Welcome to my homepage!
 I'm Xiyue Wang. I am a Master's student in the Department of Communication of Science and Technology at the University of Science and Technology of China (USTC), under the supervision of Dr. Mengxiao Zhu. I earned my B.A. degree in Broadcast & TV Journalism from the China University of Geosciences (CUG) in 2022.
