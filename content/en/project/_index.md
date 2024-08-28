@@ -14,7 +14,7 @@ toc: true
 
 {{< column >}}
 
-This is a homework project for Social Network Analysis (Instructed by Dr. Mengxiao Zhu & Prof. Noshir Contractor ). We conduct research on the lyrics of Chinese patriotic songs to explore how the lyrics reflect the social and cultural landscape during different historical periods.
+This is a homework project for Social Network Analysis (Instructed by Dr. Mengxiao Zhu & Prof. Noshir Contractor ). We conducted research on the lyrics of Chinese patriotic songs to explore how the lyrics reflect the social and cultural landscape during different historical periods.
 *Conducted with Yuxiao Wang in 2022*
 
 [PDF](/pdf/sna.pdf)
@@ -29,7 +29,7 @@ This is a homework project for Social Network Analysis (Instructed by Dr. Mengxi
 
 {{< column >}}
 
-**Documentary**: [Encounter Bookstore](https://www.bilibili.com/video/BV1DV411W7GW/?share_source=copy_web&vd_source=7cec8342b83e59fbe03433939d5bf6e5). Created by Xiyue Wang, Qing Xu, Yuanxiao Wang, Yunjing Shu, 2022
+**Documentary**: [Encounter Bookstore](https://www.bilibili.com/video/BV1DV411W7GW/?share_source=copy_web&vd_source=7cec8342b83e59fbe03433939d5bf6e5). *Created by Xiyue Wang, Qing Xu, Yuanxiao Wang, Yunjing Shu, 2022*
 
 {{< endcolumn >}}
 
@@ -39,7 +39,7 @@ This is a homework project for Social Network Analysis (Instructed by Dr. Mengxi
 
 {{< column >}}
 
-**Documentary**: [The Unceasing Flight of the Kite](https://youtu.be/ePda6o6_z4g?si=fVOBugOHTPcCPRCw). Created by Xiyue Wang, Qing Xu, Yuanxiao Wang, Yunjing Shu, 2021
+**Documentary**: [The Unceasing Flight of the Kite](https://youtu.be/ePda6o6_z4g?si=fVOBugOHTPcCPRCw). *Created by Xiyue Wang, Qing Xu, Yuanxiao Wang, Yunjing Shu, 2021*
 
 {{< endcolumn >}}
 
