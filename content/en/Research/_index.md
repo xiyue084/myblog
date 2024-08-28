@@ -7,8 +7,10 @@ type : nolisting
 
 {{< columns >}}
 
-{{<figure-a src="/static/images/ica.png">}}
+{{<figure-a src="/images/ica.png">}}
 
 {{< column >}}
 
 **Gender Differences in Self-Presentations among Streamers on Douyu**. Xiyue Wang, Mengxiao Zhu, Chunke Su, Han Zhao, Cuihua Shen. Paper presented at the *74th Annual Conference of the International Communication Association (ICA)*, Gold Coast, Australia, 2024
+
+{{< endcolumn >}}
