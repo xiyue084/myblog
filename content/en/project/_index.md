@@ -8,9 +8,15 @@ toc: true
 
 ### Mutimedia
 
-- Documentary:[The Unceasing Flight of the Kite](https://www.bilibili.com/video/BV1zA411E7mW/?share_source=copy_web)
+{{< columns >}}
 
+{{<figure-a src="/images/yfbx.png">}}
 
+{{< column >}}
+
+Documentary: [The Unceasing Flight of the Kite](https://youtu.be/ePda6o6_z4g?si=fVOBugOHTPcCPRCw). Created by Xiyue Wang, Qing Xu, Yuanxiao Wang, Yunjing Shun, 2021
+
+{{< endcolumn >}}
 
 
 
