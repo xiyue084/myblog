@@ -44,7 +44,7 @@ toc: true
 **Stat wo Math**: This project shares some of the most basic statistical methods for students from the humanities and social sciences.
 *Conducted with Dr. Mengxiao Zhu*
 
-[PDF](/pdf/stat wo math.pdf)
+[PDF](/pdf/stat_wo_math.pdf)
 
 {{< endcolumn >}}
 
