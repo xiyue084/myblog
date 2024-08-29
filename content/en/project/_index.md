@@ -41,7 +41,7 @@ toc: true
 
 {{< column >}}
 
-**Stat wo Math**: This project shares some of the most basic statistical methods for students from the humanities and social sciences.
+**Stat wo Math**: This project introduces some of the most basic statistical methods for students from the humanities and social sciences.
 *Conducted with Dr. Mengxiao Zhu*
 
 [PDF](/pdf/stat wo math.pdf)
