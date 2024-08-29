@@ -33,6 +33,21 @@ toc: true
 
 {{< endcolumn >}}
 
+###Tutorials
+
+{{< columns >}}
+
+{{<figure-a src="/images/stat wo math.png">}}
+
+{{< column >}}
+
+**Stat wo Math**: This project shares some of the most basic statistical methods for students from the humanities and social sciences.
+*Conducted with Dr. Mengxiao Zhu*
+
+[PDF](/pdf/stat wo math.pdf)
+
+{{< endcolumn >}}
+
 ### Muti-Media
 
 {{< columns >}}
