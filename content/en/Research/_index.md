@@ -23,6 +23,7 @@ type : nolisting
 
 {{< column >}}
 
-**Influence Unraveled: Exploring the Impact of Influencer Marketing on User Disengagement**. Xiyue Wang, Mengxiao Zhu, Lin Liu & Fan Zhang. (Manuscript in preparation).
+**Influence Unraveled: Exploring the Impact of Influencer Marketing on User Disengagement**. Xiyue Wang, Mengxiao Zhu, Lin Liu & Fan Zhang. 
+(Manuscript in preparation).
 
 {{< endcolumn >}}
