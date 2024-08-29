@@ -21,6 +21,18 @@ toc: true
 
 {{< endcolumn >}}
 
+{{< columns >}}
+
+{{<figure-a src="/images/neighbor.png">}}
+
+{{< column >}}
+
+**Social Network Analysis**: In this project, I explored differences between male and female streamers on Douyu, a popular live streaming platform in China, in their neighbor relationship including (a) neighbor network features (b) gender preferences of neighbors.
+
+[PDF](/pdf/neighbor.pdf)
+
+{{< endcolumn >}}
+
 ### Muti-Media
 
 {{< columns >}}
