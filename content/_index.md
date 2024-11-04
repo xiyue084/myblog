@@ -10,4 +10,5 @@ I'm Xiyue Wang. I am a Master's student in the Department of Communication of Sc
 我是王禧玥，目前是中国科学技术大学科技传播系的一名硕士生。在此之前，我在中国地质大学（武汉）广播电视学专业取得了本科学位。
 
 Email: <sikawxy_999@mail.ustc.edu.cn>
+
 CV [here](/Users/xiaotiancaidiannao/Desktop/申请材料/CV_1104.pdf)
