@@ -43,6 +43,16 @@ type : nolisting
 
 {{< column >}}
 
-**From Streamers to Friends: Investigating the Influence of Parasocial Relationship on Gifting Behavior in Live Streaming.**. Lin Liu, Xiyue Wang & Mengxiao Zhu. Submitted to the *75th Annual Conference of the International Communication Association (ICA)*,  Denver, USA, 2025
+**From Streamers to Friends: Investigating the Influence of Parasocial Relationship on Gifting Behavior in Live Streaming**. Lin Liu, Xiyue Wang & Mengxiao Zhu. Submitted to the *75th Annual Conference of the International Communication Association (ICA)*,  Denver, USA, 2025
+
+{{< endcolumn >}}
+
+{{< columns >}}
+
+{{<figure-a src="/images/gift.png">}}
+
+{{< column >}}
+
+**Gendered Pixels: Exploring Gender Differences in Computer-Mediated Self-Presentation among Douyu Live Streamers**. Xiyue Wang, Mengxiao Zhu, Chunke Su, Han Zhao & Cuihua Shen*. Target to New Media & Society
 
 {{< endcolumn >}}
