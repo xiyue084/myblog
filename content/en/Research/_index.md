@@ -36,3 +36,13 @@ type : nolisting
 **Polymedia Dynamics: Self-Disclosure and Identity Construction among Chinese Gay Men**. Xiyue Wang & Mengxiao Zhu. Submitted to the *75th Annual Conference of the International Communication Association (ICA)*,  Denver, USA, 2025
 
 {{< endcolumn >}}
+
+{{< columns >}}
+
+{{<figure-a src="/images/gift.png">}}
+
+{{< column >}}
+
+**From Streamers to Friends: Investigating the Influence of Parasocial Relationship on Gifting Behavior in Live Streaming.**. Lin Liu, Xiyue Wang & Mengxiao Zhu. Submitted to the *75th Annual Conference of the International Communication Association (ICA)*,  Denver, USA, 2025
+
+{{< endcolumn >}}
