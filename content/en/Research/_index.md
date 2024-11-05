@@ -23,8 +23,7 @@ type : nolisting
 
 {{< column >}}
 
-**Influence Unraveled: Exploring the Impact of Influencer Marketing on User Disengagement**. Xiyue Wang, Mengxiao Zhu & Lin Liu. 
-(Manuscript in preparation).
+**Influence Unraveled: Exploring the Impact of Influencer Marketing on User Disengagement**. Xiyue Wang, Mengxiao Zhu & Lin Liu. Submitted to the *75th Annual Conference of the International Communication Association (ICA)*,  Denver, USA, 2025
 
 {{< endcolumn >}}
 
