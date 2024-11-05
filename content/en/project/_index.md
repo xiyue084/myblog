@@ -36,7 +36,7 @@ toc: true
 
 {{< columns >}}
 
-{{<figure-a src="/images/guangxi.png">}}
+{{<figure-a src="/images/guangxi.jpg">}}
 
 {{< column >}}
 
