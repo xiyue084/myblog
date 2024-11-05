@@ -49,7 +49,7 @@ type : nolisting
 
 {{< columns >}}
 
-{{<figure-a src="/images/gift.png">}}
+{{<figure-a src="/images/gender.png">}}
 
 {{< column >}}
 
