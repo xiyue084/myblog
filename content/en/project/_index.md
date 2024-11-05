@@ -34,6 +34,19 @@ toc: true
 
 {{< endcolumn >}}
 
+{{< columns >}}
+
+{{<figure-a src="/images/guangxi.png">}}
+
+{{< column >}}
+
+**Knowledge Graph**: In this project, CiteSpace, a metrology software, is used to review and analyze the temporal and spatial distribution, hot spots, and clustering keywords of the research literature on Guangxi minority music which have been published in the CNKI from 1980 to 2020. 
+
+[PDF](/pdf/guangxi.pdf)
+
+
+{{< endcolumn >}}
+
 ### Tutorials
 
 {{< columns >}}
