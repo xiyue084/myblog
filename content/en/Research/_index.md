@@ -3,7 +3,7 @@ title: Research
 type : nolisting
 ---
 
-## ICA 2023
+## ICA 2024
 
 {{< columns >}}
 
