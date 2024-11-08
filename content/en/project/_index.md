@@ -84,16 +84,6 @@ toc: true
 
 {{< endcolumn >}}
 
-{{< columns >}}
-
-{{<figure-a src="/images/yjsd.png">}}
-
-{{< column >}}
-
-**Documentary**: [Encounter Bookstore](https://www.bilibili.com/video/BV1DV411W7GW/?share_source=copy_web&vd_source=7cec8342b83e59fbe03433939d5bf6e5). *Created by Xiyue Wang, Qing Xu, Yuanxiao Wang, Yunjing Shu, 2022*
-
-{{< endcolumn >}}
-
 
 
 
