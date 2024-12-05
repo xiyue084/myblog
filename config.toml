@@ -73,7 +73,7 @@ posts = "/posts/:year/:month/:day/:slug/"
   url = "media/xiyue.png" # you can change it
   width = 50.0
   height = 50.0
-  alt = "Hugo-ht"
+  alt = "xiyue"
 
 [params.lang]
 
