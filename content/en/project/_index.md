@@ -14,7 +14,7 @@ toc: true
 
 {{< column >}}
 
-**Social Network Analysis**: This is a homework project for *Social Network Analysis* (Instructed by Dr. Mengxiao Zhu & Prof. Noshir Contractor). We conducted research on the lyrics of Chinese patriotic songs to explore how the lyrics reflect the social and cultural landscape during different historical periods in China.
+**Social Network Analysis**: This is a homework project for *Social Network Analysis* (Instructed by Prof. Mengxiao Zhu & Prof. Noshir Contractor). We conducted research on the lyrics of Chinese patriotic songs to explore how the lyrics reflect the social and cultural landscape during different historical periods in China.
 *Conducted with Yuxiao Wang in 2022*
 
 [PDF](/pdf/sna.pdf)

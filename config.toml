@@ -29,7 +29,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     weight = 4
 [[menu.en]]
     name = "Music"
-    url = "/en/posts/"
+    url = "/en/music/"
     weight = 5
 [[menu.en]]
     name = "中文"
