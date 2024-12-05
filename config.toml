@@ -58,7 +58,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     defaultLang = "en"
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs" 
     MathJaxVersion = "2.7.5"
-    favicon = "media/xiyue.png"
+    favicon = "media/hugo-logo.png"
     # Edit by yourself:
     GithubEdit = "https://github.com/xiyue084/myblog/edit/main/content/"
     copyright = "&copy;"
