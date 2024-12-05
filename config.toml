@@ -58,7 +58,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     defaultLang = "en"
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs" 
     MathJaxVersion = "2.7.5"
-    favicon = "media/hugo-logo.png"
+    favicon = "media/xiyue.png"
     # Edit by yourself:
     GithubEdit = "https://github.com/xiyue084/myblog/edit/main/content/"
     copyright = "&copy;"
@@ -70,7 +70,7 @@ posts = "/posts/:year/:month/:day/:slug/"
 
 [params.logo]
   # Change the logo picture as your prefer:
-  url = "media/hugo-logo.png" # you can change it
+  url = "media/xiyue.png" # you can change it
   width = 50.0
   height = 50.0
   alt = "Hugo-ht"
