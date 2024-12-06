@@ -6,7 +6,7 @@ toc: true
 
 ## Piano Accompanist
 
-I played the piano at the age of 3. I was previously the piano accompanist of China University of Geosciences (Wuhan) Music Department and the Fifth Element Choir from 2018 to 2022.
+I played the piano at the age of 3. I was previously the piano accompanist of [China University of Geosciences (Wuhan) Music Department](https://ensac.cug.edu.cn/Faculty/Lecturers.htm) and the Fifth Element Choir from 2018 to 2022.
 
 {{< columns >}}
 
