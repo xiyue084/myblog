@@ -19,11 +19,21 @@ type : nolisting
 
 {{< columns >}}
 
+{{<figure-a src="/images/gender.png">}}
+
+{{< column >}}
+
+**Gendered Pixels: Exploring Gender Differences in Computer-Mediated Self-Presentation among Douyu Live Streamers**. Xiyue Wang, Mengxiao Zhu, Chunke Su, Han Zhao & Cuihua Shen*. Target to New Media & Society
+
+{{< endcolumn >}}
+
+{{< columns >}}
+
 {{<figure-a src="/images/im.png">}}
 
 {{< column >}}
 
-**Influence Unraveled: Exploring the Impact of Influencer Marketing on User Disengagement**. Xiyue Wang, Mengxiao Zhu & Lin Liu. Submitted to the *75th Annual Conference of the International Communication Association (ICA)*,  Denver, USA, 2025
+**Influence Unraveled: Exploring the Impact of Influencer Marketing on User Disengagement**. Xiyue Wang. Submitted to the *85th Annual Meeting of the Academy of Management (AOM)*, Copenhagen, Denmark, 2025.
 
 {{< endcolumn >}}
 
@@ -47,12 +57,3 @@ type : nolisting
 
 {{< endcolumn >}}
 
-{{< columns >}}
-
-{{<figure-a src="/images/gender.png">}}
-
-{{< column >}}
-
-**Gendered Pixels: Exploring Gender Differences in Computer-Mediated Self-Presentation among Douyu Live Streamers**. Xiyue Wang, Mengxiao Zhu, Chunke Su, Han Zhao & Cuihua Shen*. Target to New Media & Society
-
-{{< endcolumn >}}
