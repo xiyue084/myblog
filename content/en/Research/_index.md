@@ -23,7 +23,8 @@ type : nolisting
 
 {{< column >}}
 
-**Gendered Pixels: Exploring Gender Differences in Computer-Mediated Self-Presentation among Douyu Live Streamers**. Xiyue Wang, Mengxiao Zhu, Chunke Su, Han Zhao & Cuihua Shen*. Target to New Media & Society
+**Gendered Pixels: Exploring Gender Differences in Computer-Mediated Self-Presentation among Douyu Live Streamers**. Xiyue Wang, Mengxiao Zhu, Chunke Su, Han Zhao & Cuihua Shen*. 
+*Submitted to New Media & Society*
 
 {{< endcolumn >}}
 
