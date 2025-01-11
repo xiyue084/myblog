@@ -11,4 +11,4 @@ I am Xiyue Wang. I am a Master's student in the Department of Communication of S
 
 Email: <sikawxy_999@mail.ustc.edu.cn><br>
 
-[CV](pdf/CV_1225.pdf)
+[CV](pdf/CV.pdf)
